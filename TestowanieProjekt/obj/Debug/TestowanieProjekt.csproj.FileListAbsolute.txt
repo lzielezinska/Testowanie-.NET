@@ -1,0 +1,15 @@
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\TestowanieProjekt.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\TestowanieProjekt.pdb
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\obj\Debug\TestowanieProjekt.csprojResolveAssemblyReference.cache
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\obj\Debug\TestowanieProjekt.dll
+C:\Users\Lucyna\Documents\TestowanieProjekt\TestowanieProjekt\obj\Debug\TestowanieProjekt.pdb
