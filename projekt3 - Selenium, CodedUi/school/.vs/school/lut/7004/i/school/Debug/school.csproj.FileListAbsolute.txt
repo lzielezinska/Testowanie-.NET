@@ -1,0 +1,9 @@
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school\bin\ApplicationInsights.config
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school\bin\school.dll.config
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school\bin\school.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school\Debug\school.Migrations.InitialCreate.resources
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school\Debug\school.Migrations.firstMig.resources
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school\Debug\school.csproj.GenerateResource.cache
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school\Debug\school.csproj.CopyComplete
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school\Debug\school.dll

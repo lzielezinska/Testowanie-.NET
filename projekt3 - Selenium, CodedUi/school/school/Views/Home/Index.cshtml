@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <div>
+        <p><h2>Hello There!</h2></p>
+    </div>
+
+    <div>
+        <p><h4>Register to have an access to System.</h4></p>
+    </div>
+    <div class="row">
+        <div class="col-md-6 margin-top-20">
+            
+            <a href="@Url.Action("Index", "Students")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-question-sign"></span> List Of Students</a>
+        </div>
+        <div class="col-md-6 margin-top-20">
+            <a href="@Url.Action("Index", "Classes")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-circle-arrow-up"></span> List of Classes</a>
+            <a href="@Url.Action("Index", "Marks")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-circle-arrow-up"></span> List of Marks</a>
+        </div>
+    </div>
+    
+
+    <div class="clearfix">
+
+        <img style="display: block; margin: 0 auto; width:900px;height: auto " src="~/Images/img1.jpg" />
+    </div>
+
+
+</div>

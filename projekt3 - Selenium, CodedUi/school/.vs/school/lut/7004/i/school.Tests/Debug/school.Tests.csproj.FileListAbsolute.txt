@@ -1,0 +1,11 @@
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.Tests\bin\Debug\school.Tests.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.Tests\Debug\school.Tests.csprojAssemblyReference.cache
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.Tests\Debug\school.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.Tests\Debug\school.Tests.csproj.CopyComplete
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.Tests\Debug\school.Tests.dll

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<school.Models.Mark>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Marks</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MarkNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentId)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MarkNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.students.LastName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.id })
+            </td>
+        </tr>
+    }
+    <div>
+        <a href="@Url.Action("Index", "Home")" class="btn btn-info"><span class="glyphicon glyphicon-circle-arrow-up"></span>Back to Menu</a>
+    </div>
+
+</table>

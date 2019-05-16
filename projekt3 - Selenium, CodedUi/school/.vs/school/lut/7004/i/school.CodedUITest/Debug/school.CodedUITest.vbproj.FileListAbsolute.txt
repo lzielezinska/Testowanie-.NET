@@ -1,0 +1,5 @@
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\b\school.CodedUITest\bin\Debug\school.CodedUITest.dll
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.CodedUITest\Debug\school.CodedUITest.vbprojAssemblyReference.cache
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.CodedUITest\Debug\school.CodedUITest.vbproj.CoreCompileInputs.cache
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.CodedUITest\Debug\school.CodedUITest.vbproj.CopyComplete
+C:\Users\Lucyna\Pictures\school\.vs\school\lut\0\i\school.CodedUITest\Debug\school.CodedUITest.dll
