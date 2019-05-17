@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+school.CodedUITestProject1
+</name>
+</assembly>
+<members>
+<member name="P:school.CodedUITestProject1.CodedUITest1.TestContext">
+<summary>
+Pobiera lub ustawia kontekst testu, który udostępnia
+funkcjonalność i informację o bieżącym przebiegu testu.
+</summary>
+</member>
+</members>
+</doc>
